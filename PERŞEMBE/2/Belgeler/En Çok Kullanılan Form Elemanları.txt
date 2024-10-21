@@ -1,0 +1,9 @@
+1- text - metin Kutusu
+2- Password - Şifre
+3- Radio buton - Radyo Düğmesi(Tek seçim, name aynı)
+4- Checkbox - Onay Kutusu(Onaylama, Birden Çok seçim, name farklı)
+5- Submit, reset butonları
+6- Select - Seçim listesi
+7- Textarea - Metin alanı
+8- button
+9- Fieldset legend -  Gruplama(group box)

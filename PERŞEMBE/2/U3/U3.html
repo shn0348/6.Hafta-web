@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Uygulması - 5 </title>
+</head>
+<body>
+    <form action="uye.html" method="post">
+        <label>Ad:</label><input type="text" name="ad" ><br/><br/>
+		<label>Soyad:</label><input type="text" name="soyad" autofocus="autofocus"><br/><br/>
+        <label>e-Mail:</label><input type="email" name="e-mail"><br/><br/>
+        <label>Parolo:</label><input type="password" name="sifre"><br/><br/>
+        Öğrenim Durumu<br>
+        <input type="radio" name="mezuniyet" value="ilkokul" checked="on"> İlkokul <br/>
+        <input type="radio" name="mezuniyet" value="ortaokul"> Ortaokul <br/>
+        <input type="radio" name="mezuniyet" value="Lise"> Lise <br/>
+        <input type="radio" name="mezuniyet" value="Lisans"> Lisans <br/>
+        <input type="radio" name="mezuniyet" value="yLisans"> Yüksek Lisans <br/>
+        Bildiğiniz Programlama Dilleri<br>
+        <input type="checkbox" name="c#" value="" checked> C# <br>
+        <input type="checkbox" name="c++" value="" checked> C++ <br>
+        <input type="checkbox" name="java" value="" > Java<br>
+        <input type="checkbox" name="python" value="" > Python <br>
+        <input type="checkbox" name="c" value="" checked> C <br>
+        <input type="checkbox" name="visualBasic" value=""> Visual Basic<br>
+        <input type="submit" value="Kaydet">
+        <input type="reset" value="Sil">
+    </form>
+</body>
+</html>

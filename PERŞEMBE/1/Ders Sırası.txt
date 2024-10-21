@@ -1,0 +1,8 @@
+1-Form Elamanlarına kadar anlat.
+2- U1 yap 
+3- U1 php 'yi get ve set yöntemi yaparak göster.
+3- U2 yaptır
+4- U3 yaptır.
+5- 92.sf anlat
+6- U4 yap
+7- U5 yaptır.

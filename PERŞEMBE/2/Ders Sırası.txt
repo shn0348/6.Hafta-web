@@ -1,0 +1,14 @@
+1- U1 yap(modülden)-Yaptır.
+2- İnput girdi türleri göster(belgeler klasörü)
+3- Checkbox anlat.
+4- U2 yap.
+5- U3 yaptır.
+6- Buttonu anlat.(U4)
+7- U5 yaptır.
+12- Select anlat(U6).
+13- U7 yaptır.
+14- Fieldset-Legend anlat.
+15- Textarea anlat.
+16- U8 yap-Yaptır.
+17- Form-Tablo Sıralaması(Belgeler Klasörü)
+18- U9 yap-yaptır.
